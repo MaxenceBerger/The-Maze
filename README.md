@@ -17,7 +17,7 @@ Dans ce projet, nous devions réaliser créer un jeu vidéo en C# avec le moteur
 - **Pouvoir déplacer son joueur**
 - **Un menu pause**
 - **Une gestion de scrore (timer)**
-- **Un Gameover / Win**
+- **Un GameOver / Win**
 - **Des ennemis**
 
 ## Collaborateurs :
